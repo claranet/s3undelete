@@ -1,0 +1,4 @@
+.idea
+.terraform
+terraform.tfstate*
+s3undelete
